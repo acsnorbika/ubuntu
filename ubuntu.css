@@ -20,6 +20,7 @@ body{
 #lablec{
     clear: both;
     color: #808080;
+    text-align: center;
     width: 1085px;
     padding: 20px;
     margin: 0px;
@@ -62,4 +63,11 @@ img{
 .komment{
     font-style: italic;
     background-color: white;
+}
+a{  
+    text-decoration: red;
+    color: #f15d22;
+}
+a:hover{
+    color: #a0a0a0;
 }
